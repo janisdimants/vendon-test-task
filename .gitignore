@@ -1,0 +1,6 @@
+composer.phar
+/vendor/
+/node_modules/
+/.idea/
+/public/
+.DS_Store

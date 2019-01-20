@@ -1,0 +1,10 @@
+.result {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  min-height: 100vh;
+  max-width: 1024px;
+  align-items: center;
+  justify-content: center;
+  font-family: sans-serif;
+}
